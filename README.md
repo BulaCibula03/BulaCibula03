@@ -38,7 +38,7 @@ Oi! Sou um cara italo-brasileiro que curte Linux e gosta de construir software e
 - **Tailwind CSS** para UI limpa e responsiva
 
 ## Sysadmin / mentalidade de segurança
-Sou **usuário Arch há cerca de 6 anos**, e isso aparece no meu jeito de pensar em ferramentas e manutenção: eu não quero só “funcionar”, eu quero que seja compreensível e fácil de manter ao longo do tempo.  
+Sou **usuário Arch há cerca de 6 anos**, e isso aparece no meu jeito de pensar em ferramentas e manutenção: eu não quero só que as coisas funcionem, eu quero que sejam compreensíveis e fáceis de manter ao longo do tempo.  
 Também tenho interesse em sysadmin e redes, com uma mentalidade defensiva (práticas básicas de segurança, firewall e hardening de serviços).
 
 ## O que eu gosto de fazer
