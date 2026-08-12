@@ -1,4 +1,4 @@
-# Personal README 🇮🇹🇧🇷🐧
+# Personal README 🇧🇷🇮🇹🐧
 
 Hi! I’m a Italian-Brazilian Linux enthusiast who enjoys building software and tinkering with systems. ⚙️💻
 
@@ -22,7 +22,7 @@ I enjoy bridging development and operations—building apps that are easier to d
 
 If you have projects, ideas, or you want to discuss architecture, CI/CD, or security fundamentals, feel free to reach out! 🤝
 
-# README pessoal 🇮🇹🇧🇷🐧
+# README pessoal 🇧🇷🇮🇹🐧
 
 Oi! Sou um cara italo-brasileiro que curte Linux e gosta de construir software e mexer nos sistemas. 🐧⚙️
 
@@ -46,7 +46,7 @@ Gosto de unir desenvolvimento e operações: construir apps mais fáceis de impl
 
 Se você tiver projetos, ideias ou quiser conversar sobre arquitetura, CI/CD ou fundamentos de segurança, pode chamar! 🤝
 
-# README personale 🇮🇹🇧🇷🐧
+# README personale 🇧🇷🇮🇹🐧
 
 Ciao! Sono un ragazzo italo-brasiliano appassionato di Linux e di software engineering: mi piace costruire progetti e “mettere le mani” sui sistemi. 🐧⚙️
 
