@@ -3,10 +3,10 @@
 Hi! I’m a Italian-Brazilian Linux enthusiast who enjoys building software and tinkering with systems.
 
 ## What I code with
-- **C**
-- **Go**
 - **TypeScript**
 - **Python**
+- **C**
+- **Go**
 
 ## Web stack
 - **Vue.js** + **Nuxt.js** (Nitro for full-stack)
@@ -51,10 +51,10 @@ Se você tiver projetos, ideias ou quiser conversar sobre arquitetura, CI/CD ou 
 Ciao! Sono un ragazzo italo-brasiliano appassionato di Linux e di software engineering: mi piace costruire progetti e “mettere le mani” sui sistemi.
 
 ## Linguaggi che uso
-- **C**
-- **Go**
 - **TypeScript**
 - **Python**
+- **C**
+- **Go**
 
 ## Web stack
 - **Vue.js** e **Nuxt.js** (Nitro per full-stack)
