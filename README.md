@@ -5,8 +5,8 @@ Hi! I’m a Italian-Brazilian Linux enthusiast who enjoys building software and 
 ## What I code with
 - **TypeScript** 🛠️
 - **Python** 🐍
-- **C** 🧩
-- **Go** ⚙️
+- **C/C++** 🧩
+- **Java (sometimes)** ⚙️
 
 ## Web stack 🌐
 - **Vue.js** + **Nuxt.js** (Nitro for full-stack) 🚀
@@ -30,7 +30,7 @@ Oi! Sou um cara italo-brasileiro que curte Linux e gosta de construir software e
 - **TypeScript** 🛠️
 - **Python** 🐍
 - **C** 🧩
-- **Go** ⚙️
+- **Java (às vezes)** ⚙️
 
 ## Stack web 🌐
 - **Vue.js** + **Nuxt.js** (Nitro para full-stack) 🚀
@@ -54,7 +54,7 @@ Ciao! Sono un ragazzo italo-brasiliano appassionato di Linux e di software engin
 - **TypeScript** 🛠️
 - **Python** 🐍
 - **C** 🧩
-- **Go** ⚙️
+- **Java (a volte)** ⚙️
 
 ## Web stack 🌐
 - **Vue.js** e **Nuxt.js** (Nitro per full-stack) 🚀
