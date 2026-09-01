@@ -29,7 +29,7 @@ Oi! Sou um cara italo-brasileiro que curte Linux e gosta de construir software e
 ## O que eu programo
 - **TypeScript** 🛠️
 - **Python** 🐍
-- **C** 🧩
+- **C/C++** 🧩
 - **Java (às vezes)** ⚙️
 
 ## Stack web 🌐
@@ -53,7 +53,7 @@ Ciao! Sono un ragazzo italo-brasiliano appassionato di Linux e di software engin
 ## Linguaggi che uso
 - **TypeScript** 🛠️
 - **Python** 🐍
-- **C** 🧩
+- **C/C++** 🧩
 - **Java (a volte)** ⚙️
 
 ## Web stack 🌐
