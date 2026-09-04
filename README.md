@@ -48,7 +48,7 @@ Se você tiver projetos, ideias ou quiser conversar sobre arquitetura, CI/CD ou 
 
 # README personale 🇧🇷🇮🇹🐧
 
-Ciao! Sono un ragazzo italo-brasiliano appassionato di Linux e di software engineering: mi piace costruire progetti e “mettere le mani” sui sistemi. 🐧⚙️
+Ciao! Sono un ragazzo italo-brasiliano appassionato di Linux e di software engineering: mi piace costruire progetti e smanettare con i sistemi. 🐧⚙️
 
 ## Linguaggi che uso
 - **TypeScript** 🛠️
